@@ -1,0 +1,1197 @@
+1532157023519	geckodriver	INFO	geckodriver 0.19.1
+1532157023522	geckodriver	INFO	Listening on 127.0.0.1:34237
+1532157024662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YL4qFiAFGDfT"
+1532157026831	Marionette	INFO	Listening on port 35997
+1532157026874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18657, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532164393974	geckodriver	INFO	geckodriver 0.19.1
+1532164393978	geckodriver	INFO	Listening on 127.0.0.1:56585
+1532164395119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZAC2GiNk9bij"
+1532164397598	Marionette	INFO	Listening on port 46491
+1532164397656	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20143, Gecko_IOThread] WARNING: pipe error (64): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532164478543	geckodriver	INFO	geckodriver 0.19.1
+1532164478551	geckodriver	INFO	Listening on 127.0.0.1:44663
+1532164479678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iVk55pyWRGp2"
+1532164481470	Marionette	INFO	Listening on port 41427
+1532164481490	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20380, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532165477703	geckodriver	INFO	geckodriver 0.19.1
+1532165477705	geckodriver	INFO	Listening on 127.0.0.1:39471
+1532165478818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ELQAtZ86rNQt"
+1532165480517	Marionette	INFO	Listening on port 43425
+1532165480532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20750, Gecko_IOThread] WARNING: pipe error (96): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 20750, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532165515797	geckodriver	INFO	geckodriver 0.19.1
+1532165515800	geckodriver	INFO	Listening on 127.0.0.1:38547
+1532165516933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nyipHoDnlmMQ"
+1532165518669	Marionette	INFO	Listening on port 34701
+1532165518741	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20976, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532173473560	geckodriver	INFO	geckodriver 0.19.1
+1532173473563	geckodriver	INFO	Listening on 127.0.0.1:46953
+1532173474692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DqSy0GXNd0J9"
+1532173476799	Marionette	INFO	Listening on port 44079
+1532173476917	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21970, Gecko_IOThread] WARNING: pipe error (99): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 21970, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532173514274	geckodriver	INFO	geckodriver 0.19.1
+1532173514277	geckodriver	INFO	Listening on 127.0.0.1:41891
+1532173515423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bh9FNZ54iNlp"
+1532173518361	Marionette	INFO	Listening on port 34685
+1532173518441	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22183, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174039174	geckodriver	INFO	geckodriver 0.19.1
+1532174039176	geckodriver	INFO	Listening on 127.0.0.1:42709
+1532174040285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VgBn2Sm7vxIJ"
+1532174041980	Marionette	INFO	Listening on port 44187
+1532174041995	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22486, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174116685	geckodriver	INFO	geckodriver 0.19.1
+1532174116688	geckodriver	INFO	Listening on 127.0.0.1:47901
+1532174117822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yk97xxcyZVAT"
+1532174119666	Marionette	INFO	Listening on port 36273
+1532174119753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532174163805	geckodriver	INFO	geckodriver 0.19.1
+1532174163808	geckodriver	INFO	Listening on 127.0.0.1:36197
+1532174164941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8J6Rclyt7R59"
+1532174167041	Marionette	INFO	Listening on port 40939
+1532174167053	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22927, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174204213	geckodriver	INFO	geckodriver 0.19.1
+1532174204228	geckodriver	INFO	Listening on 127.0.0.1:42919
+1532174205362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rpt4Ss76Py37"
+1532174207312	Marionette	INFO	Listening on port 40237
+1532174207374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532174236032	geckodriver	INFO	geckodriver 0.19.1
+1532174236034	geckodriver	INFO	Listening on 127.0.0.1:34473
+1532174237173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XUHHnvGkjBUM"
+1532174239680	Marionette	INFO	Listening on port 33175
+1532174239829	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23358, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174288530	geckodriver	INFO	geckodriver 0.19.1
+1532174288533	geckodriver	INFO	Listening on 127.0.0.1:57131
+1532174289676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xET65cqowmK3"
+1532174291450	Marionette	INFO	Listening on port 37325
+1532174291496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23591, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174338185	geckodriver	INFO	geckodriver 0.19.1
+1532174338188	geckodriver	INFO	Listening on 127.0.0.1:57939
+1532174339321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n61A2Hj9ssQz"
+1532174341102	Marionette	INFO	Listening on port 34649
+1532174341130	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23805, Gecko_IOThread] WARNING: pipe error (89): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23805, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 23141, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 22715, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532174392114	geckodriver	INFO	geckodriver 0.19.1
+1532174392117	geckodriver	INFO	Listening on 127.0.0.1:39793
+1532174393249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WxATySlFwUWm"
+1532174394975	Marionette	INFO	Listening on port 34995
+1532174395058	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24036, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532174423390	geckodriver	INFO	geckodriver 0.19.1
+1532174423393	geckodriver	INFO	Listening on 127.0.0.1:47755
+1532174424531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.82pA89BxFme0"
+1532174426187	Marionette	INFO	Listening on port 44721
+1532174426244	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24249, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532311557079	geckodriver	INFO	geckodriver 0.19.1
+1532311557081	geckodriver	INFO	Listening on 127.0.0.1:43357
+1532311558211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s2CCbrAXemEl"
+1532311559958	Marionette	INFO	Listening on port 43137
+1532311560068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532312022335	geckodriver	INFO	geckodriver 0.19.1
+1532312022338	geckodriver	INFO	Listening on 127.0.0.1:57613
+1532312023481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PZjJoxiRDYID"
+1532312025229	Marionette	INFO	Listening on port 42813
+1532312025289	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26674, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26674, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26591, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532312050952	geckodriver	INFO	geckodriver 0.19.1
+1532312050955	geckodriver	INFO	Listening on 127.0.0.1:57243
+1532312052086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ay56SSZeoRAa"
+1532312053884	Marionette	INFO	Listening on port 41481
+1532312053908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532313059448	geckodriver	INFO	geckodriver 0.19.1
+1532313059450	geckodriver	INFO	Listening on 127.0.0.1:53251
+1532313060585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LXXihxkpltKO"
+1532313062379	Marionette	INFO	Listening on port 42387
+1532313062398	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27232, Gecko_IOThread] WARNING: pipe error (63): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26799, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 26048, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532313136195	geckodriver	INFO	geckodriver 0.19.1
+1532313136198	geckodriver	INFO	Listening on 127.0.0.1:48529
+1532313137353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vRm8uSCOxD8q"
+1532313139158	Marionette	INFO	Listening on port 43087
+1532313139276	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27462, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532313160666	geckodriver	INFO	geckodriver 0.19.1
+1532313160668	geckodriver	INFO	Listening on 127.0.0.1:50981
+1532313161805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Kk4hhXvR0OmL"
+1532313163501	Marionette	INFO	Listening on port 38523
+1532313163535	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27674, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532313179660	geckodriver	INFO	geckodriver 0.19.1
+1532313179663	geckodriver	INFO	Listening on 127.0.0.1:51981
+1532313180803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T6wxTSaLk7gF"
+1532313182523	Marionette	INFO	Listening on port 46667
+1532313182624	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27887, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532313831062	geckodriver	INFO	geckodriver 0.19.1
+1532313831065	geckodriver	INFO	Listening on 127.0.0.1:44379
+1532313832200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WkKwmYJu3Ejx"
+1532313833920	Marionette	INFO	Listening on port 33897
+1532313834011	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28340, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532313853945	geckodriver	INFO	geckodriver 0.19.1
+1532313853947	geckodriver	INFO	Listening on 127.0.0.1:45839
+1532313855076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lex4RraSH6hO"
+1532313856669	Marionette	INFO	Listening on port 40897
+1532313856693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28547, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532314629742	geckodriver	INFO	geckodriver 0.19.1
+1532314629745	geckodriver	INFO	Listening on 127.0.0.1:56519
+1532314630876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yjLIDYhB0jls"
+1532314632536	Marionette	INFO	Listening on port 39261
+1532314632592	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 28891, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532314699210	geckodriver	INFO	geckodriver 0.19.1
+1532314699213	geckodriver	INFO	Listening on 127.0.0.1:33879
+1532314700340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7OEkeSR7HlKL"
+1532314701954	Marionette	INFO	Listening on port 46397
+1532314702075	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29163, Gecko_IOThread] WARNING: pipe error (105): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 29163, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532333684816	geckodriver	INFO	geckodriver 0.19.1
+1532333684819	geckodriver	INFO	Listening on 127.0.0.1:35901
+1532333685953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WEmZ0xamDLSj"
+1532333687731	Marionette	INFO	Listening on port 39689
+1532333687769	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30978, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532334678124	geckodriver	INFO	geckodriver 0.19.1
+1532334678127	geckodriver	INFO	Listening on 127.0.0.1:36523
+1532334679363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7HjzNj7r4nFJ"
+1532334681390	Marionette	INFO	Listening on port 43965
+1532334681516	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31581, Gecko_IOThread] WARNING: pipe error (36): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 31581, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532335278605	geckodriver	INFO	geckodriver 0.19.1
+1532335278608	geckodriver	INFO	Listening on 127.0.0.1:43403
+1532335279734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rMR3OaIC488q"
+1532335281583	Marionette	INFO	Listening on port 39997
+1532335281658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://pos.baidu.com/ccmm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=2&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1532335348434&ti=%E5%93%88%EF%BC%81%E5%93%88%EF%BC%81%E5%93%88%EF%BC%81_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1299x673&pss=1299x4889&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1532335348&prot=2&rw=673&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2593%2588%25EF%25BC%2581%25E5%2593%2588%25EF%25BC%2581%25E5%2593%2588%25EF%25BC%2581%2F15124307%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DlnbdZf2_nA6yFal0IggZPsSHlDgacck9eYz723WKIpyMRX4q6-47vDvS_TR_gdHfwFDUAQwYIDNYtfZjRQ-E29plFlwcy7Qw5V1HqaCGQyJJQQ_n_1_hL0aedGPG9zLj5G86aLElgKtdj9-mtJ5kAa%26wd%3D%26eqid%3Dd62b822c0001422d000000065b5594ed&ecd=1&uc=1309x747&pis=-1x-1&sr=1366x768&tcn=1532335349&qn=4172c9e0720caf20&tt=1532335348413.176.313.316, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ccmm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=2&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1532335348434&ti=%E5%93%88%EF%BC%81%E5%93%88%EF%BC%81%E5%93%88%EF%BC%81_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1299x673&pss=1299x4889&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1532335348&prot=2&rw=673&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%2593%2588%25EF%25BC%2581%25E5%2593%2588%25EF%25BC%2581%25E5%2593%2588%25EF%25BC%2581%2F15124307%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DlnbdZf2_nA6yFal0IggZPsSHlDgacck9eYz723WKIpyMRX4q6-47vDvS_TR_gdHfwFDUAQwYIDNYtfZjRQ-E29plFlwcy7Qw5V1HqaCGQyJJQQ_n_1_hL0aedGPG9zLj5G86aLElgKtdj9-mtJ5kAa%26wd%3D%26eqid%3Dd62b822c0001422d000000065b5594ed&ecd=1&uc=1309x747&pis=-1x-1&sr=1366x768&tcn=1532335349&qn=4172c9e0720caf20&tt=1532335348413.176.313.316, line 119: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 31923, Gecko_IOThread] WARNING: pipe error (55): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532337990630	geckodriver	INFO	geckodriver 0.19.1
+1532337990633	geckodriver	INFO	Listening on 127.0.0.1:55293
+1532337991780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DvPG5OcaDBPi"
+1532337994297	Marionette	INFO	Listening on port 41187
+1532337994313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 563, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532344720433	geckodriver	INFO	geckodriver 0.19.1
+1532344720439	geckodriver	INFO	Listening on 127.0.0.1:59131
+1532344721601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LEoB4GDtTKiN"
+1532344723957	Marionette	INFO	Listening on port 46441
+1532344724012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 1581, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532344768616	geckodriver	INFO	geckodriver 0.19.1
+1532344768619	geckodriver	INFO	Listening on 127.0.0.1:40835
+1532344769772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5cWOaoRf8QJX"
+1532344771594	Marionette	INFO	Listening on port 43611
+1532344771690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 1808, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532344858624	geckodriver	INFO	geckodriver 0.19.1
+1532344858627	geckodriver	INFO	Listening on 127.0.0.1:34383
+1532344859760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cKg8YAT1qKlK"
+1532344861454	Marionette	INFO	Listening on port 41729
+1532344861467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2082, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532345003860	geckodriver	INFO	geckodriver 0.19.1
+1532345003863	geckodriver	INFO	Listening on 127.0.0.1:52571
+1532345005003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XI8UWBoeOEzE"
+1532345006731	Marionette	INFO	Listening on port 40623
+1532345006815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 2356, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532345343500	geckodriver	INFO	geckodriver 0.19.1
+1532345343503	geckodriver	INFO	Listening on 127.0.0.1:57225
+1532345344635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WLRkug71a5uM"
+1532345346340	Marionette	INFO	Listening on port 36945
+1532345346481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 2645, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532345624283	geckodriver	INFO	geckodriver 0.19.1
+1532345624286	geckodriver	INFO	Listening on 127.0.0.1:43047
+1532345625420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hiM2HYVySjVp"
+1532345627132	Marionette	INFO	Listening on port 33605
+1532345627271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Child 3169, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3075, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532345691027	geckodriver	INFO	geckodriver 0.19.1
+1532345691030	geckodriver	INFO	Listening on 127.0.0.1:55839
+1532345692159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FcKBmJv5DD7v"
+1532345693902	Marionette	INFO	Listening on port 42715
+1532345693970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+1532345843974	geckodriver	INFO	geckodriver 0.19.1
+1532345843977	geckodriver	INFO	Listening on 127.0.0.1:47185
+1532345845109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KItaKjaM418f"
+1532345847426	Marionette	INFO	Listening on port 43027
+1532345847531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 3662, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532346110915	geckodriver	INFO	geckodriver 0.19.1
+1532346110918	geckodriver	INFO	Listening on 127.0.0.1:35807
+1532346112067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r8eeBBs8oxZC"
+1532346113919	Marionette	INFO	Listening on port 42313
+1532346113977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 3329, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532346482987	geckodriver	INFO	geckodriver 0.19.1
+1532346482992	geckodriver	INFO	Listening on 127.0.0.1:55027
+1532346484142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IpXYIEkphWF9"
+1532346486041	Marionette	INFO	Listening on port 33827
+1532346486058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+1532346620983	geckodriver	INFO	geckodriver 0.19.1
+1532346620986	geckodriver	INFO	Listening on 127.0.0.1:38967
+1532346622291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2zSC6FAoBS3f"
+1532346624598	Marionette	INFO	Listening on port 37617
+1532346624702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+1532347103281	geckodriver	INFO	geckodriver 0.19.1
+1532347103284	geckodriver	INFO	Listening on 127.0.0.1:59299
+1532347104413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0tMd8kgRMTDl"
+1532347106118	Marionette	INFO	Listening on port 38703
+1532347106230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532347119225	geckodriver	INFO	geckodriver 0.19.1
+1532347119227	geckodriver	INFO	Listening on 127.0.0.1:55589
+1532347120359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LN4frYfGOCgZ"
+1532347122023	Marionette	INFO	Listening on port 33595
+1532347122094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5170, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532347529650	geckodriver	INFO	geckodriver 0.19.1
+1532347529653	geckodriver	INFO	Listening on 127.0.0.1:46945
+1532347530783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HIuKg0Le3Qqt"
+1532347532572	Marionette	INFO	Listening on port 38299
+1532347532596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Child 5534, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5448, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532347550455	geckodriver	INFO	geckodriver 0.19.1
+1532347550458	geckodriver	INFO	Listening on 127.0.0.1:58401
+1532347551587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xggwIVuSfJKC"
+1532347553454	Marionette	INFO	Listening on port 39551
+1532347553512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 5661, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532349631252	geckodriver	INFO	geckodriver 0.19.1
+1532349631255	geckodriver	INFO	Listening on 127.0.0.1:53933
+1532349632387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9FiJBTzViFmu"
+1532349634139	Marionette	INFO	Listening on port 46837
+1532349634198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+1532349707479	geckodriver	INFO	geckodriver 0.19.1
+1532349707482	geckodriver	INFO	Listening on 127.0.0.1:49693
+1532349708611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XsqsyTj5mGdp"
+1532349710314	Marionette	INFO	Listening on port 34043
+1532349710322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript error: http://www.1905.com/coll/adproxy.html?aid=96265, line 22: TypeError: parent.document.getElementById(...) is null
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 6380, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6126, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532349981515	geckodriver	INFO	geckodriver 0.19.1
+1532349981517	geckodriver	INFO	Listening on 127.0.0.1:47999
+1532349982646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xd9Q8YGUAA6c"
+1532349984444	Marionette	INFO	Listening on port 45969
+1532349984473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 6704, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532350589670	geckodriver	INFO	geckodriver 0.19.1
+1532350589673	geckodriver	INFO	Listening on 127.0.0.1:38853
+1532350590803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.97FBDS9bicaw"
+1532350592533	Marionette	INFO	Listening on port 44073
+1532350592613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: http://js.static.m1905.cn/core/seed.src.js, line 803: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532350773159	geckodriver	INFO	geckodriver 0.19.1
+1532350773162	geckodriver	INFO	Listening on 127.0.0.1:53001
+1532350774299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X1qt4CHRf2TI"
+1532350775952	Marionette	INFO	Listening on port 39543
+1532350776016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://js.static.m1905.cn/core/jquery-edge.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+JavaScript error: http://js.static.m1905.cn/mdb/mdbfinal.min.js?n=20150123, line 1: ReferenceError: mdbFilmData is not defined
+JavaScript error: http://js.static.m1905.cn/mdb/mdb_func.min.js?d=20140212, line 3: TypeError: filmHtml is undefined
+[Parent 7375, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532401198949	geckodriver	INFO	geckodriver 0.19.1
+1532401198958	geckodriver	INFO	Listening on 127.0.0.1:44779
+1532401200088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.czDZYbr7QRC7"
+1532401202364	Marionette	INFO	Listening on port 41309
+1532401202399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+[Parent 10973, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 10973, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532401906161	geckodriver	INFO	geckodriver 0.19.1
+1532401906166	geckodriver	INFO	Listening on 127.0.0.1:34453
+1532401907302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bmheZ1OKnteQ"
+1532401909525	Marionette	INFO	Listening on port 37551
+1532401909647	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11515, Chrome_ChildThread] WARNING: pipe error (39): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11515, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11515, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11515, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11515, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532416095257	geckodriver	INFO	geckodriver 0.19.1
+1532416095268	geckodriver	INFO	Listening on 127.0.0.1:51737
+1532416096403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T3fRP2csKwGj"
+1532416098425	Marionette	INFO	Listening on port 37857
+1532416098526	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13203, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532416197612	geckodriver	INFO	geckodriver 0.19.1
+1532416197615	geckodriver	INFO	Listening on 127.0.0.1:53801
+1532416198751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sfTH75cvM8s7"
+1532416200608	Marionette	INFO	Listening on port 38613
+1532416200670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532416353253	geckodriver	INFO	geckodriver 0.19.1
+1532416353256	geckodriver	INFO	Listening on 127.0.0.1:37227
+1532416354386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PiVrFVO0ny0F"
+1532416356695	Marionette	INFO	Listening on port 36499
+1532416356847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532416409820	geckodriver	INFO	geckodriver 0.19.1
+1532416409826	geckodriver	INFO	Listening on 127.0.0.1:52637
+1532416410982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HTqUOWUwDkRa"
+1532416413606	Marionette	INFO	Listening on port 42923
+1532416413705	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13737, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 14027, Gecko_IOThread] WARNING: pipe error (58): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 13490, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532416461112	geckodriver	INFO	geckodriver 0.19.1
+1532416461115	geckodriver	INFO	Listening on 127.0.0.1:48927
+1532416462273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IQn1mI1V2u9E"
+1532416464116	Marionette	INFO	Listening on port 33573
+1532416464194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.cbooo.cn/Content/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14305, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532417484867	geckodriver	INFO	geckodriver 0.19.1
+1532417484870	geckodriver	INFO	Listening on 127.0.0.1:58481
+1532417486000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HphNun9M6s3V"
+1532417487758	Marionette	INFO	Listening on port 34721
+1532417487816	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14789, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532417549337	geckodriver	INFO	geckodriver 0.19.1
+1532417549340	geckodriver	INFO	Listening on 127.0.0.1:55169
+1532417550482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.umSASTpDU0EI"
+1532417552221	Marionette	INFO	Listening on port 44377
+1532417552321	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15024, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532417712910	geckodriver	INFO	geckodriver 0.19.1
+1532417712913	geckodriver	INFO	Listening on 127.0.0.1:37615
+1532417714048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xa1bBRrza4rt"
+1532417715797	Marionette	INFO	Listening on port 39041
+1532417716035	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15274, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532417949976	geckodriver	INFO	geckodriver 0.19.1
+1532417949979	geckodriver	INFO	Listening on 127.0.0.1:56955
+1532417951112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ceU1B4KpXJeT"
+1532417952776	Marionette	INFO	Listening on port 33065
+1532417952833	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15565, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532418188801	geckodriver	INFO	geckodriver 0.19.1
+1532418188803	geckodriver	INFO	Listening on 127.0.0.1:48351
+1532418189935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fgGq2FKrFLuX"
+1532418191683	Marionette	INFO	Listening on port 40747
+1532418191751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532418219109	geckodriver	INFO	geckodriver 0.19.1
+1532418219112	geckodriver	INFO	Listening on 127.0.0.1:58005
+1532418220237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qREzpX8aJ7Jr"
+1532418222258	Marionette	INFO	Listening on port 35679
+1532418222394	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+1532418222457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+[Parent 15875, Gecko_IOThread] WARNING: pipe error (95): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 15875, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532418226208	geckodriver	INFO	geckodriver 0.19.1
+1532418226211	geckodriver	INFO	Listening on 127.0.0.1:59629
+1532418227349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wOOjHfFFW8RM"
+1532418229064	Marionette	INFO	Listening on port 45855
+1532418229165	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16269, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532418854881	geckodriver	INFO	geckodriver 0.19.1
+1532418854884	geckodriver	INFO	Listening on 127.0.0.1:59281
+1532418856016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XUoB29iFvoj0"
+1532418857842	Marionette	INFO	Listening on port 42953
+1532418857930	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16630, Gecko_IOThread] WARNING: pipe error (54): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 16630, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532418958666	geckodriver	INFO	geckodriver 0.19.1
+1532418958669	geckodriver	INFO	Listening on 127.0.0.1:35591
+1532418959801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9HhviV5PDVmF"
+1532418961626	Marionette	INFO	Listening on port 41573
+1532418961711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532419027616	geckodriver	INFO	geckodriver 0.19.1
+1532419027619	geckodriver	INFO	Listening on 127.0.0.1:36363
+1532419028768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pcUVRoypEv9o"
+1532419030665	Marionette	INFO	Listening on port 45961
+1532419030687	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17136, Gecko_IOThread] WARNING: pipe error (54): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 17136, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 16892, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532419084421	geckodriver	INFO	geckodriver 0.19.1
+1532419084423	geckodriver	INFO	Listening on 127.0.0.1:57643
+1532419085564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z5wdjvV6zy8H"
+1532419087319	Marionette	INFO	Listening on port 42707
+1532419087377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17390, Gecko_IOThread] WARNING: pipe error (54): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 17390, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532419286244	geckodriver	INFO	geckodriver 0.19.1
+1532419286247	geckodriver	INFO	Listening on 127.0.0.1:37165
+1532419287381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Vhc0Zg0s1Y0W"
+1532419289106	Marionette	INFO	Listening on port 46181
+1532419289227	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17672, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532419344926	geckodriver	INFO	geckodriver 0.19.1
+1532419344928	geckodriver	INFO	Listening on 127.0.0.1:50901
+1532419346054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RXJyXeb20FxW"
+1532419347762	Marionette	INFO	Listening on port 40851
+1532419347872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532419410909	geckodriver	INFO	geckodriver 0.19.1
+1532419410912	geckodriver	INFO	Listening on 127.0.0.1:35931
+1532419412044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.meXtzPqh28NN"
+1532419413873	Marionette	INFO	Listening on port 45117
+1532419413956	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18140, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532419665177	geckodriver	INFO	geckodriver 0.19.1
+1532419665185	geckodriver	INFO	Listening on 127.0.0.1:59921
+1532419666312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fdjSkeqCZ8ce"
+1532419668371	Marionette	INFO	Listening on port 37145
+1532419668455	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18532, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 17888, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532419824622	geckodriver	INFO	geckodriver 0.19.1
+1532419824625	geckodriver	INFO	Listening on 127.0.0.1:38131
+1532419825760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wTNImUPW9rLi"
+1532419827603	Marionette	INFO	Listening on port 39061
+1532419827704	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18743, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532419953630	geckodriver	INFO	geckodriver 0.19.1
+1532419953633	geckodriver	INFO	Listening on 127.0.0.1:36543
+1532419954766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MQhBIwONMhLo"
+1532419956487	Marionette	INFO	Listening on port 39241
+1532419956594	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19029, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532420891350	geckodriver	INFO	geckodriver 0.19.1
+1532420891353	geckodriver	INFO	Listening on 127.0.0.1:45907
+1532420892484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WvqYjvqlCJO8"
+1532420894191	Marionette	INFO	Listening on port 36113
+1532420894302	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19569, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532421328309	geckodriver	INFO	geckodriver 0.19.1
+1532421328311	geckodriver	INFO	Listening on 127.0.0.1:53913
+1532421329443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bVNXOf2S8u41"
+1532421331076	Marionette	INFO	Listening on port 43907
+1532421331161	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19901, Gecko_IOThread] WARNING: pipe error (54): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19901, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532421503596	geckodriver	INFO	geckodriver 0.19.1
+1532421503599	geckodriver	INFO	Listening on 127.0.0.1:40587
+1532421504746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FASfj5b8tUTG"
+1532421506659	Marionette	INFO	Listening on port 44297
+1532421506762	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20185, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532424190753	geckodriver	INFO	geckodriver 0.19.1
+1532424190756	geckodriver	INFO	Listening on 127.0.0.1:52797
+1532424191906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0ow82ZYc6NNX"
+1532424194094	Marionette	INFO	Listening on port 32921
+1532424194146	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21051, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532432235593	geckodriver	INFO	geckodriver 0.19.1
+1532432235602	geckodriver	INFO	Listening on 127.0.0.1:52187
+1532432236740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8ZMsZDu1rd7U"
+1532432238846	Marionette	INFO	Listening on port 43575
+1532432238983	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22631, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532432304526	geckodriver	INFO	geckodriver 0.19.1
+1532432304529	geckodriver	INFO	Listening on 127.0.0.1:53477
+1532432305660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A6lwyKdb2ubV"
+1532432307609	Marionette	INFO	Listening on port 34675
+1532432307699	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22908, Gecko_IOThread] WARNING: pipe error (64): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532433030485	geckodriver	INFO	geckodriver 0.19.1
+1532433030493	geckodriver	INFO	Listening on 127.0.0.1:58523
+1532433031640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IhXsdCcP5izz"
+1532433033731	Marionette	INFO	Listening on port 40845
+1532433033762	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23318, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532433067359	geckodriver	INFO	geckodriver 0.19.1
+1532433067362	geckodriver	INFO	Listening on 127.0.0.1:60433
+1532433068499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S1DGQqU2wVgg"
+1532433070333	Marionette	INFO	Listening on port 41235
+1532433070416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532433172450	geckodriver	INFO	geckodriver 0.19.1
+1532433172452	geckodriver	INFO	Listening on 127.0.0.1:50871
+1532433173585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1xCgXHkDep2h"
+1532433175601	Marionette	INFO	Listening on port 39385
+1532433175696	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23819, Gecko_IOThread] WARNING: pipe error (79): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532433741445	geckodriver	INFO	geckodriver 0.19.1
+1532433741453	geckodriver	INFO	Listening on 127.0.0.1:42661
+1532433742593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7G4luaEXnFM7"
+1532433744971	Marionette	INFO	Listening on port 42981
+1532433745064	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24132, Gecko_IOThread] WARNING: pipe error (79): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 23559, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532433823000	geckodriver	INFO	geckodriver 0.19.1
+1532433823004	geckodriver	INFO	Listening on 127.0.0.1:54343
+1532433824149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NTCES5f2PQ6d"
+1532433826230	Marionette	INFO	Listening on port 42031
+1532433826267	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24414, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532434547239	geckodriver	INFO	geckodriver 0.19.1
+1532434547242	geckodriver	INFO	Listening on 127.0.0.1:41459
+1532434548378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oxCD3MdzQgmy"
+1532434550069	Marionette	INFO	Listening on port 42547
+1532434550104	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24774, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532435766073	geckodriver	INFO	geckodriver 0.19.1
+1532435766076	geckodriver	INFO	Listening on 127.0.0.1:35941
+1532435767219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n6IlRvwGEvYH"
+1532435768927	Marionette	INFO	Listening on port 43551
+1532435768953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://img3.doubanio.com/f/shire/f010949d3f23dd7c972ad7cb40b800bf70723c93/js/douban.js, line 1: ReferenceError: $ is not defined
+[Parent 25391, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532436149775	geckodriver	INFO	geckodriver 0.19.1
+1532436149778	geckodriver	INFO	Listening on 127.0.0.1:50451
+1532436150905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wOsaRcCJeeoL"
+1532436152775	Marionette	INFO	Listening on port 37077
+1532436152821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://img3.doubanio.com/f/shire/f010949d3f23dd7c972ad7cb40b800bf70723c93/js/douban.js, line 1: ReferenceError: $ is not defined
+[Parent 25666, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532484637694	geckodriver	INFO	geckodriver 0.19.1
+1532484637700	geckodriver	INFO	Listening on 127.0.0.1:57803
+1532484638836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vBQsAeDsw8d5"
+1532484641713	Marionette	INFO	Listening on port 33745
+1532484641759	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27910, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532485124170	geckodriver	INFO	geckodriver 0.19.1
+1532485124176	geckodriver	INFO	Listening on 127.0.0.1:34251
+1532485125314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6eYDEMMErcwY"
+1532485127509	Marionette	INFO	Listening on port 33751
+1532485127527	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28489, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 28489, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 28390, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532488470385	geckodriver	INFO	geckodriver 0.19.1
+1532488470390	geckodriver	INFO	Listening on 127.0.0.1:60003
+1532488471532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X0giV18eUu18"
+1532488473849	Marionette	INFO	Listening on port 46799
+1532488473966	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29567, Gecko_IOThread] WARNING: pipe error (103): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 29567, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532592677107	geckodriver	INFO	geckodriver 0.19.1
+1532592677109	geckodriver	INFO	Listening on 127.0.0.1:37503
+1532592678252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3INUQPSeia2c"
+1532592680331	Marionette	INFO	Listening on port 35925
+1532592680366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532602641026	geckodriver	INFO	geckodriver 0.19.1
+1532602641029	geckodriver	INFO	Listening on 127.0.0.1:47741
+1532602642165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.992Q10O4HEVm"
+1532602644264	Marionette	INFO	Listening on port 45263
+1532602644275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7943, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532603349528	geckodriver	INFO	geckodriver 0.19.1
+1532603349531	geckodriver	INFO	Listening on 127.0.0.1:45385
+1532603350633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yTlCHnDg4nzJ"
+1532603352424	Marionette	INFO	Listening on port 43623
+1532603352448	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8334, Chrome_ChildThread] WARNING: pipe error (35): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8334, Chrome_ChildThread] WARNING: pipe error (19): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8334, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532603689844	geckodriver	INFO	geckodriver 0.19.1
+1532603689846	geckodriver	INFO	Listening on 127.0.0.1:40163
+1532603690971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vBWFFgYa4r5b"
+1532603693585	Marionette	INFO	Listening on port 37285
+1532603693679	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8681, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8623, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532608102636	geckodriver	INFO	geckodriver 0.19.1
+1532608102638	geckodriver	INFO	Listening on 127.0.0.1:42859
+1532608103772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B71A7H57zFis"
+1532608105557	Marionette	INFO	Listening on port 40637
+1532608105602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532608105760	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/PlacesFeed.jsm :: removeObservers :: line 218"  data: no] Stack trace: removeObservers()@resource://activity-stream/lib/PlacesFeed.jsm:218
+onAction()@resource://activity-stream/lib/PlacesFeed.jsm:290
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+GeckoDriver.prototype.quit()@driver.js:3282
+despatch()@server.js:294
+execute()@server.js:268
+onPacket/<()@server.js:243
+onPacket()@server.js:242
+_onJSONObjectReady/<()@transport.js:500
+[Child 9719, Chrome_ChildThread] WARNING: pipe error (19): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9719, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532661417400	geckodriver	INFO	geckodriver 0.19.1
+1532661417411	geckodriver	INFO	Listening on 127.0.0.1:39729
+1532661418521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CWQ5F6Tayo9t"
+1532661420714	Marionette	INFO	Listening on port 34317
+1532661420730	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21139, Gecko_IOThread] WARNING: pipe error (106): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 21139, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532661670832	geckodriver	INFO	geckodriver 0.19.1
+1532661670837	geckodriver	INFO	Listening on 127.0.0.1:39411
+1532661671970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ssvq4fcoa536"
+1532661673804	Marionette	INFO	Listening on port 42437
+1532661673887	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21483, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532662160235	geckodriver	INFO	geckodriver 0.19.1
+1532662160239	geckodriver	INFO	Listening on 127.0.0.1:33871
+1532662161367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wb7nxsygksri"
+1532662163013	Marionette	INFO	Listening on port 39207
+1532662163079	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21842, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532662250464	geckodriver	INFO	geckodriver 0.19.1
+1532662250466	geckodriver	INFO	Listening on 127.0.0.1:40181
+1532662251568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n42RcUEg1R03"
+1532662253268	Marionette	INFO	Listening on port 44629
+1532662253278	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22079, Gecko_IOThread] WARNING: pipe error (105): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 22079, Gecko_IOThread] WARNING: pipe error (69): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532662356495	geckodriver	INFO	geckodriver 0.19.1
+1532662356498	geckodriver	INFO	Listening on 127.0.0.1:47633
+1532662357731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.elEU3r3hirFk"
+1532662359571	Marionette	INFO	Listening on port 40525
+1532662359660	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22310, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532664074046	geckodriver	INFO	geckodriver 0.19.1
+1532664074049	geckodriver	INFO	Listening on 127.0.0.1:33939
+1532664075178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0psca4ut8rJ7"
+1532664076842	Marionette	INFO	Listening on port 46257
+1532664076884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23070, Gecko_IOThread] WARNING: pipe error (114): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23070, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532669753691	geckodriver	INFO	geckodriver 0.19.1
+1532669753694	geckodriver	INFO	Listening on 127.0.0.1:58483
+1532669754799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y2D8sx4Xtgwh"
+1532669756894	Marionette	INFO	Listening on port 46125
+1532669756918	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 23788, Gecko_IOThread] WARNING: pipe error (61): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532695259374	geckodriver	INFO	geckodriver 0.19.1
+1532695259381	geckodriver	INFO	Listening on 127.0.0.1:51459
+1532695260536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d9e52YJfbCjn"
+1532695263047	Marionette	INFO	Listening on port 46199
+1532695263184	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29055, Gecko_IOThread] WARNING: pipe error (77): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532759048742	geckodriver	INFO	geckodriver 0.19.1
+1532759048747	geckodriver	INFO	Listening on 127.0.0.1:38347
+1532759049994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ODmlbsGUlihp"
+1532759052627	Marionette	INFO	Listening on port 43277
+1532759052708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+1532759096521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16689, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16689, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16689, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16689, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 16590, Gecko_IOThread] WARNING: pipe error (63): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532759155108	geckodriver	INFO	geckodriver 0.19.1
+1532759155114	geckodriver	INFO	Listening on 127.0.0.1:51257
+1532759156269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bx3UrFJxIr3U"
+1532759158452	Marionette	INFO	Listening on port 38173
+1532759158484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+1532759234542	geckodriver	INFO	geckodriver 0.19.1
+1532759234545	geckodriver	INFO	Listening on 127.0.0.1:52317
+1532759235688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WgYUeqTJk3oq"
+1532759238277	Marionette	INFO	Listening on port 43423
+1532759238301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+[Parent 17126, Gecko_IOThread] WARNING: pipe error (73): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: http://static1.mtime.cn/channel/20180305142624/js/movies/GlobalMovieSearchControl.js, line 1: TypeError: this.selectedLocationRegion is null
+[Parent 16850, Gecko_IOThread] WARNING: pipe error (64): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
