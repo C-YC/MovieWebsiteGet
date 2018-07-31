@@ -17,7 +17,7 @@ main code to get info from the websites
 store data in and out of the redis<br>
 `restart.py`<br>
 determine whether there is an error and whether to restart get_contents.py, mtime_1905_get.py<br>
-`start.sh`
+`start.sh` <br>
 script to start the program <br>
 # Operating environment
 Based on **python2.7** and **selenium**, first need to install：<br>
